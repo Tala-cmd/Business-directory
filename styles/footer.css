@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgba(181, 189, 229, 0.546);
+    color: rgb(103, 109, 134);
+    padding: 20px 0px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.footer-rights{
+color:rgb(56, 60, 78);
+
+}
+
+.footer-info p {
+    margin: 5px 0;
+}
+
+.footer-social a {
+    color: #fff;
+    margin-right: 10px;
+}
+
+.footer-bottom {
+    background-color: rgb(103, 109, 134);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.contact-us {
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(103, 109, 134);
+}
