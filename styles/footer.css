@@ -92,7 +92,7 @@ justify-content:center;
     align-items: center;
     }
 
-    .footer-info i{
+ .ri-phone-line{
     display: flex;
     padding:5px;
     font-size:20px;
@@ -109,6 +109,6 @@ justify-content:center;
     }
 
     .footer-social-frame{
-        width:400px;
-        }
+    width:400px;
+    }
 }
